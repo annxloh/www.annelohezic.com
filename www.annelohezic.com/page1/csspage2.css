@@ -1,0 +1,65 @@
+﻿header
+{
+width: 1800px;
+height: 80px;
+background-color: #f5f5dc;
+margin: 10px 0px 10px 0px;
+padding: 2px 0px 2px 0px;
+}
+
+h1
+{
+font-size: 1.8em;
+text-align: center;
+}
+
+nav
+{
+background-color: #EEEEEE;
+width: 1800px;
+height: 50px;
+padding: 10px 0px 10px 0px;
+}
+
+ul
+{
+display: flex;
+list-style: none;
+justify-content: center;
+}
+
+ul a
+{
+margin: 0px 50px 0px 50px;
+text-decoration: none;
+color: #C69C6D;
+font-size: 1em;
+}
+
+div
+{
+width: 1500px;
+height: 773px;
+border: 5px solid #333;
+margin: 80px;
+}
+
+#blocimg
+{
+background-image: url("2.jpg");
+background-size: 100%, contain;
+background-repeat: no-repeat;
+background-origin: content-box;
+background-position: center;
+}
+
+.pp
+{
+background-color: #EEE9CC;
+width: 1800px;
+height: 50px;
+padding: 30px 0px 10px 0px;
+color: #C69C6D;
+font-size: 1.3em;
+text-align: center;
+}
